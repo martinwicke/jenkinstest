@@ -8,6 +8,7 @@ tmp/
 
 # macosx
 *.DS_Store
+.Trash
 
 # windows
 cachesThumbs.db
